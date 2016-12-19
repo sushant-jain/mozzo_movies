@@ -15,7 +15,6 @@ import com.kontakt.sdk.android.ble.manager.listeners.EddystoneListener
 import com.kontakt.sdk.android.common.KontaktSDK
 import com.kontakt.sdk.android.common.profile.IEddystoneDevice
 import com.kontakt.sdk.android.common.profile.IEddystoneNamespace
-import com.mozzobytes.app.android.nearby.nearbyBeaconScanner
 import kotlinx.android.synthetic.main.activity_main_kotlin.*
 import kotlinx.android.synthetic.main.cardlayout.*
 import kotlinx.android.synthetic.main.content_main_kotlin.*
